@@ -1,0 +1,263 @@
+
+/* ----- HEADER ----- */
+
+
+
+h1{
+    height: 100vh;
+    display: flex;
+    font-size: 60px;
+    color: black;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 0.2em;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body{
+	background-image: url(../image/difference-pelouse-gazon.png) ;
+	background-attachment:fixed;
+}
+
+
+
+/* ----- FIN HEADER ----- */
+
+/* ----- SECTION-1 -----*/
+
+
+
+#section-1{
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    
+   
+}
+
+#section-1 .intitule{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    
+    
+}
+
+
+#section-1 .recette{
+    margin-left: 700px;
+    margin-right: 100px;
+    font-family: 'Josefin Sans', sans-serif;
+    border: 2px black solid;
+    width: 100%;
+    padding: 20px;
+    background-color: white ;
+   
+}
+
+
+#section-1 .img1{
+    width: 22%;
+    position: absolute;
+    margin-left: 100px;
+    margin-right: 700px;
+    border: 2px black solid;
+}
+
+
+
+
+/* ----- FIN SECTION-1 -----*/
+
+/* ----- SECTION-2 ----- */
+
+
+#section-2{
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px black solid;
+    padding: 20px;
+    margin-top: 30px;
+    background-color: white;
+}
+
+#section-2 .materiel{
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Josefin Sans', sans-serif;
+	
+}
+
+#section-2 .titremateriel{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+
+
+/* ----- FIN SECTION-2 ----- */
+
+/* ----- SECTION-3 ----- */
+
+#section-3{
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px black solid;
+    padding: 20px;
+    margin-top: 30px;
+    background-color: white ;
+}
+
+   
+#section-3 .listeingredients{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+table{
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+ 
+}
+
+td, th{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+
+
+/* ----- FIN SECTION-3 ----- */
+
+/* ----- SECTION-4 ----- */
+
+
+#section-4{
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px black solid;
+    padding: 20px;
+    margin-top: 30px;
+    background-color: white ;
+}
+
+#section-4 .etapes{
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Josefin Sans', sans-serif;
+	
+}
+
+#section-4 .titreetapes{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/* ----- FIN SECTION-4 ----- */
+
+/* ----- SECTION-5 ----- */
+
+#section-5{
+	display: flex;
+
+}
+
+#section-5 .Utilisation{
+    border: 2px black solid;
+    padding: 20px;
+    margin-top: 30px;
+    text-align: justify;
+    width: 60%;
+    margin-right: 15px;
+   background-color: white ;
+}
+
+
+#section-5 .precautions{
+    border: 2px black solid;
+    padding: 20px;
+    margin-top: 30px;
+    text-align: justify;
+    width: 60%;
+    margin-left: 15px;
+   background-color: white ;
+}
+
+
+#section-5 .Titreutilisation{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#section-5 .Titreprecautions{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+
+/* ----- FIN SECTION-5 ----- */
+
+/* ----- SECTION-6 ----- */
+
+
+#section-6{
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px black solid;
+    padding: 20px;
+    margin-top: 30px;
+	background-color: white ;
+}
+
+#section-6 .allergene{
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Josefin Sans', sans-serif;
+	
+}
+
+#section-6 .titreallergene{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+/* ----- FIN SECTION-6----- */
+
+
+/* ----- SECTION-7----- */
+
+#section-7{
+    font-family: 'Josefin Sans', sans-serif;
+    justify-content: center;
+    border: 2px black solid;
+    padding: 20px;
+    margin-top: 30px;
+    background-color: white ;
+}
+
+#section-7 .titreavis{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+/* ----- FIN SECTION-7----- */
